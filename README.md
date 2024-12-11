@@ -21,6 +21,9 @@
 
 - 📫 Reach me through **biswajitsow49@gmail.com**
 
+  More thing that I have work goes on---
+     I'm an aspiring Data Engineer passionate about Python and exploring innovative solutions. I've recently delved into the intersection of Machine Learning and Cybersecurity, where I've authored a technical          write-up on utilizing Graph Neural Networks (GNNs) for malware detection in neural networks. This project, along with my ongoing research contributions, showcases my dedication to leveraging advanced              techniques to enhance cybersecurity.        
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/sweetpoison3453" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sweetpoison3453" height="30" width="40" /></a>
