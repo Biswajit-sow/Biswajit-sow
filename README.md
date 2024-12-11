@@ -11,6 +11,8 @@
 
 <p align="left"> <a href="https://twitter.com/sweetpoison3453" target="blank"><img src="https://img.shields.io/twitter/follow/sweetpoison3453?logo=twitter&style=for-the-badge" alt="sweetpoison3453" /></a> </p>
 
+- ⚡ I'm a data developer and aspiring Data Analyst
+  
 - 🔭 I’m currently working on **Hardware project based on Raspberry pi**
 
 - 🌱 I’m currently learning **everything About python packages and GNN**
