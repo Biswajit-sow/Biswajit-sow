@@ -21,7 +21,8 @@
 
 - 📫 Reach me through **biswajitsow49@gmail.com**
 
-  More thing that I have work goes on---
+More details about my other work-
+<br>
      I'm an aspiring Data Engineer passionate about Python and exploring innovative solutions. I've recently delved into the intersection of Machine Learning and Cybersecurity, where I've authored a technical          write-up on utilizing Graph Neural Networks (GNNs) for malware detection in neural networks. This project, along with my ongoing research contributions, showcases my dedication to leveraging advanced              techniques to enhance cybersecurity.        
 
 <h3 align="left">Connect with me:</h3>
