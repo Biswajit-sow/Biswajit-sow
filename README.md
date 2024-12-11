@@ -1,6 +1,6 @@
 
 
-<img align="center" alt="coding" width="800" src="https://www.ccic-project.eu/wp-content/uploads/2020/10/Now-New-Next-Innovating-the-Way-Organizations-Innovate-1024x585-1.jpg">
+<img align="center" alt="coding" width="1000" height="500" src="https://www.ccic-project.eu/wp-content/uploads/2020/10/Now-New-Next-Innovating-the-Way-Organizations-Innovate-1024x585-1.jpg">
 
 
 <h1 align="center">Hi 👋, I'm Biswajit Sow</h1>
