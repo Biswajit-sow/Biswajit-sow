@@ -11,11 +11,11 @@
 
 <p align="left"> <a href="https://twitter.com/sweetpoison3453" target="blank"><img src="https://img.shields.io/twitter/follow/sweetpoison3453?logo=twitter&style=for-the-badge" alt="sweetpoison3453" /></a> </p>
 
-- ⚡ I'm a data developer and aspiring Data Analyst
+- ⚡ I'm a data developer and aspiring Data Scientist
   
-- 🔭 I’m currently working on **Hardware project based on Raspberry pi**
+- 🔭 I’m currently explore AI & ML libaries and theirs fundamentals
 
-- 🌱 I’m currently learning **everything About python packages and GNN**
+- 🌱 I’m currently working on **RAG projects**
 
 - 💪Future Goals: **Exploring Innovation and Mastering the Future of Technology**
 
@@ -23,7 +23,7 @@
 
 More details about my other work-
 <br>
-     I'm an aspiring Data Engineer passionate about Python and exploring innovative solutions. I've recently delved into the intersection of Machine Learning and Cybersecurity, where I've authored a technical          write-up on utilizing Graph Neural Networks (GNNs) for malware detection in neural networks. This project, along with my ongoing research contributions, showcases my dedication to leveraging advanced              techniques to enhance cybersecurity.        
+     I am an aspiring Data & AI Engineer with a strong passion for Python and a keen interest in developing innovative solutions. I am actively upskilling by working with various Python libraries and have completed    several hands-on projects, particularly in Retrieval-Augmented Generation (RAG) and Machine Learning. My current GitHub repository showcases my work, including data analysis on multiple datasets. I am continuously exploring new areas in AI/ML, with several upcoming projects in the pipeline.        
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
