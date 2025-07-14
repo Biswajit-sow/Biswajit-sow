@@ -19,7 +19,7 @@
 
 - 💪Future Goals: **Exploring Innovation and Mastering the Future of Technology**
 
-- 📫 Reach me through **rockd0128@gmail.com**
+- 📫 Reach me through **rockd0128@gmail.com** or **biswajitsow49@outlook.com**
 
 More details about my other work-
 <br>
