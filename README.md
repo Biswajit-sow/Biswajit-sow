@@ -10,7 +10,7 @@
 </p>
 
 <p align="left"> <a href="https://twitter.com/sweetpoison3453" target="blank"><img src="https://img.shields.io/twitter/follow/sweetpoison3453?logo=twitter&style=for-the-badge" alt="sweetpoison3453" /></a> </p>
-<p align="left"> <a href="https://www.linkedin.com/in/biswajit-sow-49baa8289/" target="blank"><img src="[![LinkedIn](https://img.shields.io/badge/LinkedIn-Follow-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/biswajit-sow-49baa8289/)" alt="Biswajit-sow" /></a> </p>
+<p align="left"> <a href="https://www.linkedin.com/in/biswajit-sow-49baa8289/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-Follow-blue?logo=linkedin&style=for-the-badge" alt="Biswajit-sow" /></a> </p>
 
 - ⚡ I'm a data developer and aspiring Data Scientist
   
