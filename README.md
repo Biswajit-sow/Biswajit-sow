@@ -18,7 +18,8 @@
 
 - 🌱 I’m currently working on **RAG projects**
 
-- 💪Future Goals: **Exploring Innovation and Mastering the Future of Technology**
+- 💪Life Goal: **To secure a position where respect and knowledge matter more than money**
+- Carrer Aim: **aiming to grow continuously and become a successful Data Scientist.**
 
 - 📫 Reach me through **rockd0128@gmail.com** or **biswajitsow49@outlook.com**
 
