@@ -19,7 +19,7 @@
 - 🌱 I’m currently working on **RAG projects**
 
 - 💪Life Goal: **To secure a position where respect and knowledge matter more than money**
-- Carrer Aim: **aiming to grow continuously and become a successful Data Scientist.**
+- ⚡Carrer Aim: **Aiming to grow continuously and become a successful Data Scientist.**
 
 - 📫 Reach me through **rockd0128@gmail.com** or **biswajitsow49@outlook.com**
 
