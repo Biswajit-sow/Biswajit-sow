@@ -36,73 +36,141 @@ More details about my other work-
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left">
 
-  <!-- --- Existing Icons (unchanged) --- -->
-  <a href="https://azure.microsoft.com/en-in/" target="_blank"><img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" width="40" height="40"/></a>
-  <a href="https://www.cprogramming.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40" height="40"/></a>
-  <a href="https://www.w3schools.com/cpp/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/></a>
-  <a href="https://www.w3schools.com/css/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40"/></a>
-  <a href="https://www.figma.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40" height="40"/></a>
-  <a href="https://flask.palletsprojects.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" width="40" height="40"/></a>
-  <a href="https://cloud.google.com" target="_blank"><img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" width="40" height="40"/></a>
-  <a href="https://www.w3.org/html/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40"/></a>
-  <a href="https://www.java.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40"/></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/></a>
-  <a href="https://www.linux.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" height="40"/></a>
-  <a href="https://www.mathworks.com/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" width="40" height="40"/></a>
-  <a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/></a>
-  <a href="https://www.oracle.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" width="40" height="40"/></a>
-  <a href="https://pandas.pydata.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="40" height="40"/></a>
-  <a href="https://www.photoshop.com/en" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" width="40" height="40"/></a>
-  <a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/></a>
-  <a href="https://pytorch.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" width="40" height="40"/></a>
-  <a href="https://seaborn.pydata.org/" target="_blank"><img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="40" height="40"/></a>
-  <a href="https://www.tensorflow.org" target="_blank"><img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="40" height="40"/></a>
-  <a href="https://www.postman.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40" height="40"/></a>
-  <a href="https://www.nltk.org/" target="_blank"><img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/nltk.svg" width="40" height="40"/></a>
-  <a href="https://www.langchain.com/" target="_blank"><img src="https://raw.githubusercontent.com/langchain-ai/.github/main/profile/logo-light.svg" width="40" height="40"/></a>
-  <a href="https://www.langchain.com/langgraph" target="_blank"><img src="https://raw.githubusercontent.com/langchain-ai/langgraph/main/docs/static/img/logo.svg" width="40" height="40"/></a>
-  <a href="https://www.databricks.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/databricks/databricks-icon.svg" width="40" height="40"/></a>
 
-  <!-- --- NEW ICONS ADDED BELOW --- -->
-
-  <!-- Scikit-Learn -->
-  <a href="https://scikit-learn.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/scikit-learn/scikit-learn/main/doc/logos/scikit-learn-logo-notext.png" width="40" height="40"/>
+<!-- Programming & Data Foundations -->
+<h3>📘 Programming & Data Foundations</h3>
+<p>
+  <a href="https://www.python.org/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="55" style="margin:10px; filter: drop-shadow(0 0 10px #00eaff); transition:0.3s;"/>
   </a>
 
-  <!-- MLflow -->
-  <a href="https://mlflow.org/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/mlflow/mlflow-icon.svg" width="40" height="40"/>
+  <a href="https://isocpp.org/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="55" style="margin:10px; filter: drop-shadow(0 0 10px #00eaff); transition:0.3s;"/>
   </a>
 
-  <!-- Streamlit -->
-  <a href="https://streamlit.io/" target="_blank">
-    <img src="https://streamlit.io/images/brand/streamlit-logo-secondary-colormark-darktext.png" width="40" height="40"/>
+  <a href="https://numpy.org/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="55" style="margin:10px; filter: drop-shadow(0 0 10px #00eaff); transition:0.3s;"/>
   </a>
 
-  <!-- Gradio -->
-  <a href="https://www.gradio.app/" target="_blank">
-    <img src="https://raw.githubusercontent.com/gradio-app/gradio/main/readme_files/gradio_logo.png" width="40" height="40"/>
+  <a href="https://pandas.pydata.org/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="55" style="margin:10px; filter: drop-shadow(0 0 10px #00eaff); transition:0.3s;"/>
   </a>
 
-  <!-- Pinecone -->
-  <a href="https://www.pinecone.io/" target="_blank">
-    <img src="https://avatars.githubusercontent.com/u/63736238?s=200&v=4" width="40" height="40"/>
+  <a href="https://www.sqlite.org/" target="_blank">
+    <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" width="55" style="margin:10px; filter: drop-shadow(0 0 10px #00eaff); transition:0.3s;"/>
   </a>
 
-  <!-- DataStax -->
-  <a href="https://www.datastax.com/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/datastax/datastax-icon.svg" width="40" height="40"/>
+  <a href="https://matplotlib.org/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matplotlib/matplotlib-original.svg" width="55" style="margin:10px; filter: drop-shadow(0 0 10px #00eaff); transition:0.3s;"/>
   </a>
 
-  <!-- ObjectBox -->
-  <a href="https://objectbox.io/" target="_blank">
-    <img src="https://avatars.githubusercontent.com/u/20436683?s=200&v=4" width="40" height="40"/>
+  <a href="https://seaborn.pydata.org/" target="_blank">
+    <img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" width="90" style="margin:10px; filter: drop-shadow(0 0 10px #00eaff); transition:0.3s;"/>
   </a>
-
 </p>
+
+---
+
+<!-- Machine Learning -->
+<h3>🤖 Machine Learning & Deep Learning</h3>
+<p>
+  <a href="https://scikit-learn.org/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikitlearn/scikitlearn-original.svg" width="55" style="margin:10px; filter: drop-shadow(0 0 12px #ff7300); transition:0.3s;"/>
+  </a>
+
+  <a href="https://pytorch.org/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" width="55" style="margin:10px; filter: drop-shadow(0 0 12px #ff7300); transition:0.3s;"/>
+  </a>
+
+
+<!-- Keras -->
+<a href="https://keras.io/" target="_blank">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Keras_logo.svg"
+       width="55"
+       style="margin:10px; filter: drop-shadow(0 0 12px #ff005d); transition:0.3s;" />
+</a>
+
+<!-- TensorFlow -->
+<a href="https://www.tensorflow.org/" target="_blank">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Tensorflow_logo.svg"
+       width="55"
+       style="margin:10px; filter: drop-shadow(0 0 12px #ff7300); transition:0.3s;" />
+</a>
+
+  <a href="https://automl.org/" target="_blank">
+    <img src="https://raw.githubusercontent.com/openml/automlbenchmark/master/docs/img/automl-logo.png" width="65" style="margin:10px; filter: drop-shadow(0 0 12px #ff7300); transition:0.3s;"/>
+  </a>
+
+  <a href="https://www.tensorflow.org/tensorboard" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" width="55" style="margin:10px; filter: drop-shadow(0 0 12px #ff7300); transition:0.3s;"/>
+  </a>
+</p>
+
+---
+
+<!-- MLOps -->
+<h3>⚙️ MLOps & Generative AI</h3>
+<p>
+  <a href="https://mlflow.org/" target="_blank">
+    <img src="https://raw.githubusercontent.com/mlflow/mlflow/master/docs/source/_static/MLflow-logo-final-black.png" width="85" style="margin:10px; filter: drop-shadow(0 0 12px #00ff88); transition:0.3s;"/>
+  </a>
+
+  <a href="https://www.databricks.com/glossary/mlops" target="_blank">
+    <img src="https://cdn.worldvectorlogo.com/logos/databricks.svg" width="55" style="margin:10px; filter: drop-shadow(0 0 12px #00ff88); transition:0.3s;"/>
+  </a>
+
+  <a href="https://www.langchain.com/" target="_blank">
+    <img src="https://avatars.githubusercontent.com/u/126733545?s=200&v=4" width="55" style="margin:10px; filter: drop-shadow(0 0 12px #00ff88); transition:0.3s;"/>
+  </a>
+
+  <a href="https://smith.langchain.com/" target="_blank">
+    <img src="https://smith.langchain.com/favicon.ico" width="55" style="margin:10px; filter: drop-shadow(0 0 12px #00ff88); transition:0.3s;"/>
+  </a>
+
+  <a href="https://www.pinecone.io/learn/retrieval-augmented-generation/" target="_blank">
+    <img src="https://avatars.githubusercontent.com/u/73112559?s=200&v=4" width="55" style="margin:10px; filter: drop-shadow(0 0 12px #00ff88); transition:0.3s;"/>
+  </a>
+</p>
+
+---
+
+<!-- Tools -->
+<h3>🛠 Tools & Deployment</h3>
+<p>
+  <a href="https://flask.palletsprojects.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" width="55" style="margin:10px; filter: drop-shadow(0 0 12px #ff00aa); transition:0.3s;"/>
+  </a>
+
+  <a href="https://www.postman.com/" target="_blank">
+    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="55" style="margin:10px; filter: drop-shadow(0 0 12px #ff00aa); transition:0.3s;"/>
+  </a>
+
+  <a href="https://streamlit.io/" target="_blank">
+    <img src="https://avatars.githubusercontent.com/u/45109972?s=200&v=4" width="55" style="margin:10px; filter: drop-shadow(0 0 12px #ff00aa); transition:0.3s;"/>
+  </a>
+
+  <a href="https://www.gradio.app/" target="_blank">
+    <img src="https://avatars.githubusercontent.com/u/65955512?s=200&v=4" width="55" style="margin:10px; filter: drop-shadow(0 0 12px #ff00aa); transition:0.3s;"/>
+  </a>
+
+  <a href="https://www.pinecone.io/" target="_blank">
+    <img src="https://avatars.githubusercontent.com/u/73112559?s=200&v=4" width="55" style="margin:10px; filter: drop-shadow(0 0 12px #ff00aa); transition:0.3s;"/>
+  </a>
+
+  <a href="https://www.datastax.com/" target="_blank">
+    <img src="https://avatars.githubusercontent.com/u/227740?s=200&v=4" width="55" style="margin:10px; filter: drop-shadow(0 0 12px #ff00aa); transition:0.3s;"/>
+  </a>
+
+  <a href="https://www.databricks.com/" target="_blank">
+    <img src="https://cdn.worldvectorlogo.com/logos/databricks.svg" width="55" style="margin:10px; filter: drop-shadow(0 0 12px #ff00aa); transition:0.3s;"/>
+  </a>
+
+  <a href="https://objectbox.io/" target="_blank">
+    <img src="https://avatars.githubusercontent.com/u/28128967?s=200&v=4" width="55" style="margin:10px; filter: drop-shadow(0 0 12px #ff00aa); transition:0.3s;"/>
+  </a>
+</p>
+
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=biswajit-sow&show_icons=true&locale=en&layout=compact" alt="biswajit-sow" /></p>
 
