@@ -98,9 +98,12 @@ More details about my other work-
        style="margin:10px; filter: drop-shadow(0 0 12px #ff7300); transition:0.3s;" />
 </a>
 
-  <a href="https://automl.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/openml/automlbenchmark/master/docs/img/automl-logo.png" width="65" style="margin:10px; filter: drop-shadow(0 0 12px #ff7300); transition:0.3s;"/>
-  </a>
+ <a href="https://en.wikipedia.org/wiki/Machine_learning" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azuresqldatabase/azuresqldatabase-original.svg"
+       width="60"
+       style="margin:10px; filter: invert(1) drop-shadow(0 0 12px #00eaff); transition:0.3s;" />
+</a>
+
 
   <a href="https://www.tensorflow.org/tensorboard" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" width="55" style="margin:10px; filter: drop-shadow(0 0 12px #ff7300); transition:0.3s;"/>
@@ -112,13 +115,14 @@ More details about my other work-
 <!-- MLOps -->
 <h3>⚙️ MLOps & Generative AI</h3>
 <p>
-  <a href="https://mlflow.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/mlflow/mlflow/master/docs/source/_static/MLflow-logo-final-black.png" width="85" style="margin:10px; filter: drop-shadow(0 0 12px #00ff88); transition:0.3s;"/>
-  </a>
+ <a href="https://mlflow.org/" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/mlflow.svg"
+       width="60"
+       style="margin:10px; filter: invert(1) drop-shadow(0 0 12px #00eaff); transition:0.3s;" />
+</a>
 
-  <a href="https://www.databricks.com/glossary/mlops" target="_blank">
-    <img src="https://cdn.worldvectorlogo.com/logos/databricks.svg" width="55" style="margin:10px; filter: drop-shadow(0 0 12px #00ff88); transition:0.3s;"/>
-  </a>
+
+  
 
   <a href="https://www.langchain.com/" target="_blank">
     <img src="https://avatars.githubusercontent.com/u/126733545?s=200&v=4" width="55" style="margin:10px; filter: drop-shadow(0 0 12px #00ff88); transition:0.3s;"/>
@@ -162,9 +166,12 @@ More details about my other work-
     <img src="https://avatars.githubusercontent.com/u/227740?s=200&v=4" width="55" style="margin:10px; filter: drop-shadow(0 0 12px #ff00aa); transition:0.3s;"/>
   </a>
 
-  <a href="https://www.databricks.com/" target="_blank">
-    <img src="https://cdn.worldvectorlogo.com/logos/databricks.svg" width="55" style="margin:10px; filter: drop-shadow(0 0 12px #ff00aa); transition:0.3s;"/>
-  </a>
+ <a href="https://www.databricks.com/" target="_blank">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/63/Databricks_Logo.png"
+       width="60"
+       style="margin:10px; filter: drop-shadow(0 0 12px #ff4d4d); transition:0.3s;" />
+</a>
+
 
   <a href="https://objectbox.io/" target="_blank">
     <img src="https://avatars.githubusercontent.com/u/28128967?s=200&v=4" width="55" style="margin:10px; filter: drop-shadow(0 0 12px #ff00aa); transition:0.3s;"/>
