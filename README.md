@@ -98,11 +98,12 @@ More details about my other work-
        style="margin:10px; filter: drop-shadow(0 0 12px #ff7300); transition:0.3s;" />
 </a>
 
- <a href="https://en.wikipedia.org/wiki/Machine_learning" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azuresqldatabase/azuresqldatabase-original.svg"
+ <a href="https://en.wikipedia.org/wiki/Automated_machine_learning" target="_blank">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/8a/Neural_Network_Icon.png"
        width="60"
-       style="margin:10px; filter: invert(1) drop-shadow(0 0 12px #00eaff); transition:0.3s;" />
+       style="margin:10px; filter: drop-shadow(0 0 12px #00eaff); transition:0.3s;" />
 </a>
+
 
 
   <a href="https://www.tensorflow.org/tensorboard" target="_blank">
@@ -179,6 +180,5 @@ More details about my other work-
 </p>
 
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=biswajit-sow&show_icons=true&locale=en&layout=compact" alt="biswajit-sow" /></p>
 
 
