@@ -16,7 +16,7 @@
   
 - 🔭 I’m currently explore AI & ML libaries and theirs fundamentals
 
-- 🌱 I’m currently working on **RAG projects**
+- 🌱 I’m currently working in **My Logic building Ability and System Engineering**
 
 - 💪Life Goal: **To secure a position where respect and knowledge matter more than money**
 - ⚡Carrer Aim: **Aiming to grow continuously and become a successful Data Scientist.**
@@ -25,7 +25,7 @@
 
 More details about my other work-
 <br>
-     I am an aspiring Data & AI Engineer with a strong passion for Python and a keen interest in developing innovative solutions. I am actively upskilling by working with various Python libraries and have completed    several hands-on projects, particularly in Retrieval-Augmented Generation (RAG) and Machine Learning. My current GitHub repository showcases my work, including data analysis on multiple datasets. I am continuously exploring new areas in AI/ML, with several upcoming projects in the pipeline.        
+     I am an aspiring Data & AI Engineer with a strong passion for Python and a keen interest in developing innovative solutions. I am actively upskilling by working with various Python libraries and have completed    several hands-on projects, particularly in Agentic Ai (RAG) and Machine Learning. My current GitHub repository and my portfolio showcases my work, including data analysis on multiple datasets. I am continuously exploring new areas in AI/ML, with several upcoming projects in the pipeline.        
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
