@@ -16,7 +16,7 @@
   
 - 🔭 I’m currently explore AI & ML libaries and theirs fundamentals
 
-- 🌱 I’m currently working in **My Logic building Ability and System Engineering**
+- 🌱 I’m currently working in **My Logic building Ability and AI & ML Pipeline**
 
 - 💪Life Goal: **To secure a position where respect and knowledge matter more than money**
 - ⚡Carrer Aim: **Aiming to grow continuously and become a successful Data Scientist.**
