@@ -68,35 +68,98 @@ Security-minded from day one: every model is a potential attack surface, every d
 
 ## `// SKILLS & STACK`
 
-**🤖 AI & Machine Learning**
+<div align="center">
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
-![LangChain](https://img.shields.io/badge/🦜_LangChain-1C3C3C?style=flat-square)
-![XGBoost](https://img.shields.io/badge/XGBoost-189AC4?style=flat-square)
-![RAG](https://img.shields.io/badge/RAG-6f42c1?style=flat-square)
-![MLOps](https://img.shields.io/badge/MLOps-0d1117?style=flat-square&logo=mlflow&logoColor=white&labelColor=0075c4)
-![LangGraph](https://img.shields.io/badge/LangGraph-000000?style=flat-square)
-![Agentic AI](https://img.shields.io/badge/Agentic_AI-7c3aed?style=flat-square)
+<!-- AI & ML -->
+<img src="https://skillicons.dev/icons?i=python,pytorch,sklearn,tensorflow&theme=dark" /><br/>
+<img src="https://skillicons.dev/icons?i=flask,react,nextjs,nodejs&theme=dark" /><br/>
+<img src="https://skillicons.dev/icons?i=aws,gcp,docker,git&theme=dark" /><br/>
+<img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,redis&theme=dark" />
 
-**☁️ Cloud & Frameworks**
+</div>
 
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
-![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
-![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=flat-square&logo=databricks&logoColor=white)
-![LangSmith](https://img.shields.io/badge/LangSmith-1C3C3C?style=flat-square)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+<br/>
 
-**🗄️ Databases & Vector Stores**
+```
+// SKILLS & STACK — proficiency overview
+```
 
-![SQL](https://img.shields.io/badge/SQL-003B57?style=flat-square&logo=sqlite&logoColor=white)
-![Pinecone](https://img.shields.io/badge/🌲_Pinecone-000000?style=flat-square)
-![AstraDB](https://img.shields.io/badge/Astra_DB-6B4FBB?style=flat-square)
-![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
+**`› AI & Machine Learning`**
+
+![Python](https://img.shields.io/badge/Python-90%25-3776AB?style=flat-square&logo=python&logoColor=white&labelColor=161b22)
+![PyTorch](https://img.shields.io/badge/PyTorch-82%25-EE4C2C?style=flat-square&logo=pytorch&logoColor=white&labelColor=161b22)
+![LangChain / RAG](https://img.shields.io/badge/LangChain_/_RAG-85%25-1C3C3C?style=flat-square&labelColor=161b22)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-80%25-F7931E?style=flat-square&logo=scikitlearn&logoColor=white&labelColor=161b22)
+![XGBoost](https://img.shields.io/badge/XGBoost-82%25-189AC4?style=flat-square&labelColor=161b22)
+![MLOps](https://img.shields.io/badge/MLOps-75%25-0075c4?style=flat-square&labelColor=161b22)
+![Agentic AI](https://img.shields.io/badge/Agentic_AI_/_LangGraph-78%25-7c3aed?style=flat-square&labelColor=161b22)
+
+| Skill | Proficiency |
+|---|---|
+| `Python / SQL / C` | `████████████████████` 90% |
+| `LangChain / RAG / Agentic AI` | `█████████████████░░░` 85% |
+| `PyTorch / Scikit-Learn` | `████████████████░░░░` 82% |
+| `XGBoost / ML Pipelines` | `████████████████░░░░` 82% |
+| `MLOps / LangSmith` | `███████████████░░░░░` 75% |
+
+**`› Frontend & Deployment`**
+
+![React](https://img.shields.io/badge/React-72%25-61DAFB?style=flat-square&logo=react&logoColor=black&labelColor=161b22)
+![Next.js](https://img.shields.io/badge/Next.js-65%25-ffffff?style=flat-square&logo=nextdotjs&logoColor=white&labelColor=161b22)
+![Flask](https://img.shields.io/badge/Flask-80%25-ffffff?style=flat-square&logo=flask&logoColor=white&labelColor=161b22)
+![Streamlit](https://img.shields.io/badge/Streamlit-80%25-FF4B4B?style=flat-square&logo=streamlit&logoColor=white&labelColor=161b22)
+![Gradio](https://img.shields.io/badge/Gradio-70%25-F97316?style=flat-square&labelColor=161b22)
+![Node.js](https://img.shields.io/badge/Node.js-65%25-339933?style=flat-square&logo=nodedotjs&logoColor=white&labelColor=161b22)
+
+| Skill | Proficiency |
+|---|---|
+| `Flask / Streamlit` | `████████████████░░░░` 80% |
+| `React / MERN Stack` | `██████████████░░░░░░` 72% |
+| `Gradio` | `██████████████░░░░░░` 70% |
+| `Next.js / Node.js` | `█████████████░░░░░░░` 65% |
+
+**`› Data Visualization & Analytics`**
+
+![Power BI](https://img.shields.io/badge/Power_BI-78%25-F2C811?style=flat-square&logo=powerbi&logoColor=black&labelColor=161b22)
+![Matplotlib](https://img.shields.io/badge/Matplotlib_/_Seaborn-85%25-11557c?style=flat-square&labelColor=161b22)
+![Plotly](https://img.shields.io/badge/Plotly-75%25-3F4F75?style=flat-square&logo=plotly&logoColor=white&labelColor=161b22)
+![Grad-CAM](https://img.shields.io/badge/Grad--CAM_/_XAI-72%25-f78166?style=flat-square&labelColor=161b22)
+![Databricks](https://img.shields.io/badge/Databricks-68%25-FF3621?style=flat-square&logo=databricks&logoColor=white&labelColor=161b22)
+
+| Skill | Proficiency |
+|---|---|
+| `Matplotlib / Seaborn / NumPy` | `█████████████████░░░` 85% |
+| `Power BI / Dashboards` | `███████████████░░░░░` 78% |
+| `Plotly / Interactive Viz` | `███████████████░░░░░` 75% |
+| `Grad-CAM / XAI Visualization` | `██████████████░░░░░░` 72% |
+| `Databricks / Spark` | `█████████████░░░░░░░` 68% |
+
+**`› Databases & Vector Stores`**
+
+![SQL](https://img.shields.io/badge/SQL-82%25-003B57?style=flat-square&logo=sqlite&logoColor=white&labelColor=161b22)
+![Pinecone](https://img.shields.io/badge/Pinecone-78%25-000000?style=flat-square&labelColor=161b22)
+![AstraDB](https://img.shields.io/badge/Astra_DB-75%25-6B4FBB?style=flat-square&labelColor=161b22)
+![MongoDB](https://img.shields.io/badge/MongoDB-70%25-47A248?style=flat-square&logo=mongodb&logoColor=white&labelColor=161b22)
+![Neo4j](https://img.shields.io/badge/Neo4j_Graph_DB-60%25-008CC1?style=flat-square&logo=neo4j&logoColor=white&labelColor=161b22)
+
+| Skill | Proficiency |
+|---|---|
+| `SQL / SQLite` | `████████████████░░░░` 82% |
+| `Pinecone (Vector DB)` | `███████████████░░░░░` 78% |
+| `Astra DB (Cassandra)` | `███████████████░░░░░` 75% |
+| `MongoDB` | `██████████████░░░░░░` 70% |
+| `Neo4j / Graph DB` | `████████████░░░░░░░░` 60% |
+
+**`› Cloud & Infrastructure`**
+
+![AWS](https://img.shields.io/badge/AWS-68%25-FF9900?style=flat-square&logo=amazonaws&logoColor=white&labelColor=161b22)
+![GCP](https://img.shields.io/badge/GCP-65%25-4285F4?style=flat-square&logo=googlecloud&logoColor=white&labelColor=161b22)
+![Docker](https://img.shields.io/badge/Docker-60%25-2496ED?style=flat-square&logo=docker&logoColor=white&labelColor=161b22)
+
+| Skill | Proficiency |
+|---|---|
+| `AWS / GCP` | `█████████████░░░░░░░` 68% |
+| `Docker / CI-CD` | `████████████░░░░░░░░` 60% |
 
 ---
 
