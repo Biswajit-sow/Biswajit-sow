@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1f6feb,100:0d1117&height=120&section=header&text=&animation=fadeIn" width="100%"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=32&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Biswajit+Sow;AI%2FML+Developer;Agentic+AI+%7C+MLOps+%7C+Agentic Memory;Building+AI+that+matters)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=32&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Biswajit+Sow;AI%2FML+Developer;Agentic+AI+%7C+MLOps+%7C+GenAI;Building+AI+that+matters)](https://git.io/typing-svg)
 
 <p>
   <img src="https://img.shields.io/badge/AI%2FML_Developer-0d1117?style=flat-square&labelColor=1f6feb&color=0d1117&logo=pytorch&logoColor=white"/>
