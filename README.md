@@ -7,7 +7,7 @@
 <p>
   <img src="https://img.shields.io/badge/AI%2FML_Developer-0d1117?style=flat-square&labelColor=1f6feb&color=0d1117&logo=pytorch&logoColor=white"/>
   &nbsp;
-  <img src="https://img.shields.io/badge/Full--Stack_Specialist-0d1117?style=flat-square&labelColor=238636&color=0d1117&logo=react&logoColor=white"/>
+  <img https://img.shields.io/badge/Agentic_AI_Specialist-0d1117?style=flat-square&labelColor=238636&color=0d1117&logo=react&logoColor=white
   &nbsp;
   <img src="https://img.shields.io/badge/India_·_UTC%2B5:30-0d1117?style=flat-square&labelColor=da3633&color=0d1117&logo=googlemaps&logoColor=white"/>
 </p>
